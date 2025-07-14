@@ -1,4 +1,4 @@
-# Data Scientist Take Home
+# Data Analyst Take Home
 
 Welcome!  You’ve advanced to the stage where we want to get a feel for how you use code to solve problems.  
 
